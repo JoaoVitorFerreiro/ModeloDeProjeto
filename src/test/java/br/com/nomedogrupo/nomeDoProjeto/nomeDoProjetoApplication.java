@@ -1,10 +1,10 @@
-package br.com.paulobarbosa.todoLists;
+package br.com.nomedogrupo.nomeDoProjeto;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TodoListsApplicationTests {
+class nomeDoProjetoApplication {
 
 	@Test
 	void contextLoads() {
