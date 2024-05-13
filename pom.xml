@@ -8,11 +8,11 @@
 		<version>3.0.11</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.com.paulobarbosa</groupId>
-	<artifactId>todoLists</artifactId>
+	<groupId>br.com.nomedogrupo</groupId>
+	<artifactId>nomeDoProjeto</artifactId>
 	<version>1.0.0</version>
-	<name>todoLists</name>
-	<description>Gerenciador de tarefas</description>
+	<name>nomeDoProjeto</name>
+	<description>Descrição do projeto</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
